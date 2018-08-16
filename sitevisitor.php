@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Site Visitor Info  
-  *Author:TechLeadz
+  *Author:Usman Altaf
  * Version:1.0
  * License:GPL2
  *
